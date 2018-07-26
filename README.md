@@ -44,23 +44,13 @@ Queda estrictamente prohibido:
 
 3.4 Crear publicaciones que no detallen explicitamente el problema del cual se busca orientación.
 
-3.5 Crear publicaciones con el fin de buscar un determinado profesional sin especificar el problema por el cual se busca orientación.
+3.5 Crear publicaciones con Acortadores o redireccion de cualquier sitio con el fin de recibir una remuneración por Click.
 
-3.6 Crear publicaciones sobre ejercicios de carácter Académico con el fin de buscar que le ayuden con la tarea en vez de solicitar orientación para resolverla.
+3.6 Crear publicaciones o comentarios "Sexistas" o "Especificando un Genero Determinado", en Programadores Chile apoyamos la diversidad de genero y no toleramos publicaciones y/o comentarios machistas o feministas.
 
-3.7 Crear publicaciones haciendo referencia a Servicios denotando que sus precios están por debajo del mercado y que supuestamente "hechan a perder el mercado" cuando vivimos en una economia de libre mercado, capacidades y conocimientos distintos.
+3.7 Crear publicaciones sobre temas de caracter Religioso, Politico y Deportivo.
 
-3.8 Crear publicaciones con "Capturas de Pantalla" sobre sueldos bajos de determinadas empresas o personas que solo generan un ambiente desagradable y o no aplican al rubro del desarrollo de software por lo tanto están prohibidas.
 
-3.9 Crear publicaciones con Acortadores o redireccion de cualquier sitio con el fin de recibir una remuneración por Click.
-
-3.10 Crear publicaciones siendo menor de edad. A no ser que no sean para pedir orientación profesional sobre la carrera, dudas respecto a la industria y todo lo relacionado a ambito académico, laboral y no publicaciones de caracter Técnico.
-
-3.11 Crear publicaciones o comentarios "Sexistas" o "Especificando un Genero Determinado", en Programadores Chile apoyamos la diversidad de genero y no toleramos publicaciones y/o comentarios machistas o feministas.
-
-3.12 Compartir cualquier material con derechos de autor "dentro" de la comunidad. hay otras iniciativas y grupos para estos fines y no el de Programadores Chile.
-
-3.13 Crear publicaciones sobre temas de caracter Religioso, Politico y Deportivo.
 Publicidad:
 
 Queda estrictamente prohibido:
@@ -68,8 +58,4 @@ Queda estrictamente prohibido:
 
 4.2 Publicaciones que hagan referencia a una Fanpage de Facebook.
 
-4.3 Publicaciones que hagan referencia a Tutoriales de Youtube sin una previa introducción al contenido en la publicación e invitación personalizada a la comunidad.
-
-4.4 Publicaciones que hagan referencia a Tutoriales de Blog sin una previa introducción al contenido en la publicación e invitación personalizada a la comunidad.
-
-4.5 Publicaciones que hagan referencia a una Marca, Producto, Servicio o Evento con el fin de conseguir ventas, más tráfico o asistencia, a menos las publique un administrador.
+4.3 Publicaciones que hagan referencia a una Marca, Producto, Servicio o Evento con el fin de conseguir ventas, más tráfico o asistencia, a menos las publique un administrador.
