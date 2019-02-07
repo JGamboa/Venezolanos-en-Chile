@@ -52,7 +52,7 @@
 
 **3.5** Crear publicaciones con Acortadores o redireccion de cualquier sitio con el fin de recibir una remuneración por Click.
 
-**3.6** Crear publicaciones o comentarios "Sexistas" o "Especificando un Genero Determinado", en Programadores Chile apoyamos la diversidad de genero y no toleramos publicaciones y/o comentarios machistas o feministas.
+**3.6** Crear publicaciones o comentarios "Sexistas" o "Especificando un Genero Determinado", en Venezolanos en Chile apoyamos la diversidad de genero y no toleramos publicaciones y/o comentarios machistas o feministas.
 
 **3.7** Crear publicaciones sobre temas de caracter Religioso, Politico y Deportivo.
 
